@@ -6,7 +6,7 @@
 Занятия проходят по субботам
 
 ### Ссылки
-Телеграм чат [https://t.me/ftad2019](https://t.me/ftad2020)
+Телеграм чат [https://t.me/ftad2020](https://t.me/ftad2020)
 
 Инвайт для [Anytask](https://anytask.org):
 
@@ -49,12 +49,14 @@
 
 | Дата  | Занятие | Материалы |
 | ------------- | ------------- | ------------- |
-| *12.09.2020*  | Введение в машинное обучение.<br> Основы языка python. | |
+| *12.09.2020*  | Введение в машинное обучение.<br> Основы языка python. | [Презентация по введению](https://github.com/ftad/ML2018/blob/master/materials/lesson1/lecture_intro.pdf) (по материалам Е. Соколова) <br> [Конспект по введению](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture01-intro.pdf) <br> [Ноутбук семинара](https://github.com/ftad/ML2020/blob/master/materials/sem01-intro.ipynb)|
 
 
 
 
 ## Практические задания
+[Домашнее задание 1: Numpy, Pandas, Matplotlib.](https://github.com/ftad/ML2020/blob/master/materials/homeworks-practice/homework-practice-01.ipynb) Дедлайн: 26.09.20  23:59 
+
 
 
 ## Теоретические задания
