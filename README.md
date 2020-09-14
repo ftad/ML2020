@@ -9,7 +9,9 @@
 Телеграм чат [https://t.me/ftad2020](https://t.me/ftad2020)
 
 Инвайт для [Anytask](https://anytask.org):
+
 Группа Станислава: F6esG0j
+
 Группа Анастасиии: P4MpuiU
 
 ### Правила выставления оценки
