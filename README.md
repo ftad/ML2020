@@ -53,7 +53,6 @@
 | Дата  | Занятие | Материалы |
 | ------------- | ------------- | ------------- |
 | *12.09.2020*  | Введение в машинное обучение.<br> Основы языка python. | [Презентация по введению](https://github.com/ftad/ML2018/blob/master/materials/lesson1/lecture_intro.pdf) (по материалам Е. Соколова) <br> [Конспект по введению](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture01-intro.pdf) <br> [Ноутбук семинара](https://github.com/ftad/ML2020/blob/master/materials/seminars/sem01-intro.ipynb)|
-| ------------- | ------------- | ------------- |
 | *19.09.2020*  | Линейная регрессия. | [Конспект по линейной регрессии](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/lecture-notes/lecture02-linregr.pdf) <br> [Конспект по регуляризации](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/lecture-notes/lecture03-linregr.pdf) <br> [Ноутбук семинара](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem02-sklearn-linregr.ipynb)|
 
 
