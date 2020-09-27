@@ -60,10 +60,12 @@
 
 
 ## Практические задания
-[Домашнее задание 1: Numpy, Pandas, Matplotlib.](https://github.com/ftad/ML2020/blob/master/materials/homeworks-practice/homework-practice-01.ipynb) Дедлайн: 26.09.20  23:59 
+[Домашнее задание 1: Numpy, Pandas, Matplotlib.](https://github.com/ftad/ML2020/blob/master/materials/homeworks-practice/homework-practice-01.ipynb) Дедлайн: 26.09.20  23:59
+
 [Домашнее задание 2: Линейная регрессия.](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/homeworks-practice/homework-practice-02-linregr.ipynb) Дедлайн: 11.10.20  23:59  
 
 
 ## Теоретические задания
 [Домашнее задание 1: Векторное дифференцирование.](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/homeworks-theory/homework-theory-01-derivatives.pdf)
+
 [Домашнее задание 2: Линейная регрессия.](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/homeworks-theory/homework-theory-02-linregr.pdf)
