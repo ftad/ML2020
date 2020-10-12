@@ -65,6 +65,8 @@
 
 [Домашнее задание 2: Линейная регрессия.](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/homeworks-practice/homework-practice-02-linregr.ipynb) Дедлайн: 11.10.20  23:59  
 
+[Домашнее задание 3: Градиентный спуск.](https://github.com/esokolov/ml-course-hse/tree/master/2020-fall/homeworks-practice/homework-practice-03-gd)
+Дедлайн: 26.10.20  23:59
 
 ## Теоретические задания
 [Домашнее задание 1: Векторное дифференцирование.](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/homeworks-theory/homework-theory-01-derivatives.pdf)
