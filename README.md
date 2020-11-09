@@ -79,3 +79,5 @@
 [Домашнее задание 1: Векторное дифференцирование.](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/homeworks-theory/homework-theory-01-derivatives.pdf)
 
 [Домашнее задание 2: Линейная регрессия.](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/homeworks-theory/homework-theory-02-linregr.pdf)
+
+[Домашнее задание 3: Линейная классификация.](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/homeworks-theory/homework-theory-03-linclass.pdf)
