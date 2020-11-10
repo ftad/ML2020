@@ -75,6 +75,10 @@
 [Домашнее задание 4: Линейная классификация.](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/homeworks-practice/homework-practice-04-classification.ipynb)
 Дедлайн: 09.11.20  23:59
 
+[Домашнее задание 5: Решающие деревья.](https://github.com/esokolov/ml-course-hse/tree/master/2020-fall/homeworks-practice/homework-practice-05-trees)
+Дедлайн: 23.11.20  23:59
+
+
 ## Теоретические задания
 [Домашнее задание 1: Векторное дифференцирование.](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/homeworks-theory/homework-theory-01-derivatives.pdf)
 
