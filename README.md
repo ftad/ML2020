@@ -89,8 +89,23 @@
 [Домашнее задание 3: Линейная классификация.](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/homeworks-theory/homework-theory-03-linclass.pdf)
 
 
+## Соревнование
+Задача: выявление мошеннических тразнакций
+
+Это соревнование на бонусные баллы, оно не является обязательным.
+
+[Ссылка для участия](https://www.kaggle.com/t/c70d9edc863e4b709f12256091e2d394)
+
+Дедлайн: 15.12.2020 23:59MSK
+
+В задании всего один бейзлайн (lightgbm), ненулевые баллы получают решения, преодолевшие его на приватном лидерборде. Все решения выше этого бейзлайна оцениваются по равномерной шкале от 0 до 5.
+
+Обратите внимание на раздел Baselines на Kaggle — там можно найти много полезного
+
+
 ## Контрольная работа
 
 [Вопросы для подготовки с прошлого года](https://docs.google.com/document/d/1xELhUsd4w3tPZ4f-nLlXoeWQEag6VGIxbD__vM7IelM/edit)
 
 [Пример варианта контрольной](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/midterm-fall-2020-example.pdf)
+
