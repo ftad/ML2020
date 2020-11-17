@@ -14,6 +14,7 @@
 
 Группа Анастасиии: P4MpuiU
 
+
 ### Правила выставления оценки
 В курсе предусмотрено несколько форм контроля знания:
 
@@ -60,6 +61,7 @@
 | *17.10.2020*  |  Многоклассовая классификация. | [Конспект лекции](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/lecture-notes/lecture06-linclass.pdf) <br> [Семинар](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/seminars/sem06-probs-quantile.pdf) <br> [Калибровка вероятностей](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/seminars/sem06.pdf)|
 | *31.10.2020*  |  Решающее дерево. | [Конспект лекции](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/lecture-notes/lecture07-trees.pdf) <br> [Ноутбук по деревьям](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem07-trees.pdf)|
 | *07.11.2020*  |  Разложение ошибки на смещение и разброс. | [Конспект лекции](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/lecture-notes/lecture08-ensembles.pdf) <br> [Задачи по деревьям](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem07-trees.pdf)|
+| *14.11.2020*  |  Бэггинг. Случайный лес. Градиентный бустинг.| [Конспект лекции по бэггингу](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/lecture-notes/lecture08-ensembles.pdf) <br> [Конспект лекции по градиентному бустингу](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/lecture-notes/lecture09-ensembles.pdf)[Задачи семинара](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem08-bvd.pdf)|
 
 
 
@@ -85,3 +87,10 @@
 [Домашнее задание 2: Линейная регрессия.](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/homeworks-theory/homework-theory-02-linregr.pdf)
 
 [Домашнее задание 3: Линейная классификация.](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/homeworks-theory/homework-theory-03-linclass.pdf)
+
+
+## Контрольная работа
+
+[Вопросы для подготовки с прошлого года](https://docs.google.com/document/d/1xELhUsd4w3tPZ4f-nLlXoeWQEag6VGIxbD__vM7IelM/edit)
+
+[Пример варианта контрольной](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/midterm-fall-2020-example.pdf)
