@@ -88,6 +88,8 @@
 
 [Домашнее задание 3: Линейная классификация.](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/homeworks-theory/homework-theory-03-linclass.pdf)
 
+[Домашнее задание 4: Разложение ошибки на смещение и разброс.](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/homeworks-theory/homework-theory-04-bvd.pdf)
+
 
 ## Соревнование
 Задача: выявление мошеннических тразнакций
