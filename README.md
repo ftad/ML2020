@@ -62,6 +62,8 @@
 | *31.10.2020*  |  Решающее дерево. | [Конспект лекции](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/lecture-notes/lecture07-trees.pdf) <br> [Ноутбук по деревьям](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem07-trees.ipynb)|
 | *07.11.2020*  |  Разложение ошибки на смещение и разброс. | [Конспект лекции](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/lecture-notes/lecture08-ensembles.pdf) <br> [Задачи по деревьям](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem07-trees.pdf)|
 | *14.11.2020*  |  Бэггинг. Случайный лес. Градиентный бустинг.| [Конспект лекции по бэггингу](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/lecture-notes/lecture08-ensembles.pdf) <br> [Конспект лекции по градиентному бустингу](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/lecture-notes/lecture09-ensembles.pdf)<br> [Задачи семинара](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem08-bvd.pdf)|
+| *21.11.2020*  | Градиентный бустинг.| [Конспект лекции по градиентному бустингу](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/lecture-notes/lecture09-ensembles.pdf)<br>
+[Конспект лекции XGBoost](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/lecture-notes/lecture09-ensembles.pdf)<br>[Задачи семинара](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem09-gbm-part1.pdf) <br>[Ноутбук семинара](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem09-gbm-part2.ipynb)| 
 
 
 
@@ -79,6 +81,9 @@
 
 [Домашнее задание 5: Решающие деревья.](https://github.com/esokolov/ml-course-hse/tree/master/2020-fall/homeworks-practice/homework-practice-05-trees)
 Дедлайн: 23.11.20  23:59
+
+[Домашнее задание 6: Разложение ошибки на смещение и разброс.](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/homeworks-practice/homework-practice-06-bvd.ipynb)
+Дедлайн: 06.12.20  23:59
 
 
 ## Теоретические задания
