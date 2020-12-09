@@ -85,6 +85,9 @@
 [Домашнее задание 6: Разложение ошибки на смещение и разброс.](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/homeworks-practice/homework-practice-06-bvd.ipynb)
 Дедлайн: 06.12.20  23:59
 
+[Домашнее задание 7: Бустинг и бэггинг.](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/homeworks-practice/homework-practice-07-boosting.ipynb)
+Дедлайн: 19.12.20  23:59
+
 
 ## Теоретические задания
 [Домашнее задание 1: Векторное дифференцирование.](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/homeworks-theory/homework-theory-01-derivatives.pdf)
