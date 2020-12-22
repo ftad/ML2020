@@ -64,7 +64,9 @@
 | *14.11.2020*  |  Бэггинг. Случайный лес. Градиентный бустинг.| [Конспект лекции по бэггингу](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/lecture-notes/lecture08-ensembles.pdf) <br> [Конспект лекции по градиентному бустингу](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/lecture-notes/lecture09-ensembles.pdf)<br> [Задачи семинара](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem08-bvd.pdf)|
 | *21.11.2020*  | Градиентный бустинг.| [Конспект лекции по градиентному бустингу](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/lecture-notes/lecture09-ensembles.pdf)<br>[Конспект лекции XGBoost](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/lecture-notes/lecture10-ensembles.pdf) <br>[Ноутбук семинара](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem09-gbm-part2.ipynb)| 
 | *28.11.2020*  | Градиентный бустинг. Кластеризация.| [Конспект лекции XGBoost](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/lecture-notes/lecture10-ensembles.pdf)<br>[Задачи семинара](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem09-gbm-part1.pdf)<br>[Конспект лекции по кластеризации](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/lecture-notes/lecture11-unsupervised.pdf)| 
-
+| *05.12.2020*  | Контрольная работа| |
+| *12.12.2020*  | Кластеризация. Метод главных компонент| [Конспект лекции](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/lecture-notes/lecture12-factorizations.pdf)| 
+| *19.12.2020*  | Рекомендательные системы. | [Конспект лекции](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/lecture-notes/lecture12-factorizations.pdf)| 
 
 
 
