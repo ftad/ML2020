@@ -121,3 +121,7 @@
 
 [Пример варианта контрольной](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/midterm-fall-2020-example.pdf)
 
+## Экзамен
+
+[Вопросы для подготовки](https://docs.google.com/document/d/1517DfTGA50FEJY7GWwAbK0Jw23cEBIYg8VU9FhYwtRk/edit)
+
